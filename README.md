@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nadijane and I'm a ..., from ....</p>
+<p align="left">My name is Nadijane and I'm a Radiologic and Nursing Technician, currently working as an Administrative Assistant - 1 in São Paulo, Brazil.</p>
 
 ###
 
@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ Creating and organizing things since I decided to enter the healthcare & administrative world<br>
+📚 I'm currently learning: GitHub, tecnologia e ferramentas de produtividade<br>
+🎯 Goals: evoluir profissionalmente, ampliar conhecimentos em tecnologia e fortalecer minha carreira híbrida entre saúde e administração<br>
+🎲 Fun fact: amo aprender coisas novas e estou sempre explorando novas formas de me organizar
+</p>
 
 ###
 
@@ -19,21 +24,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdnnet/gh/devicons/devicon/icons/javascript/javascript-original.svg
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/dev/react/react-original.svg
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconsxtjs-original.svg
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="httpselivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/ghdevicon/icons/nodejs/nodejs-original.svg
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjssvg
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo
 
-###
